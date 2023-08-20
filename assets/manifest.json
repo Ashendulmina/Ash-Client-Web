@@ -1,0 +1,13 @@
+{
+  "name": "Ash Client Web v6",
+  "short_name": "Ash Client Web v6",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [{
+    "src": "favicon.png",
+    "sizes": "512x512"
+  }],
+  "background_color": "#349474",
+  "theme_color": "#349474",
+  "display": "standalone"
+}
